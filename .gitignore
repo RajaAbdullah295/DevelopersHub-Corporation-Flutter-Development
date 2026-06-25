@@ -1,0 +1,22 @@
+# Flutter & Dart
+.dart_tool/
+build/
+pubspec.lock
+*.log
+
+# Large media files (ignore videos)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
