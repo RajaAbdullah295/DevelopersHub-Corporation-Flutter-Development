@@ -11,14 +11,6 @@ A simple Flutter app built as part of a Week 1 Flutter learning plan, covering b
 - **Navigation** — Successful login uses `Navigator.push()` to move to the Home Screen.
 - **Home Screen** — Displays a welcome message and the logged-in email, with a logout button that returns to the login screen.
 
-## Screenshots
-
-*(Add a screenshot of your login screen and home screen here once you have them, e.g.)*
-
-```
-![Login Screen](screenshots/login_screen.png)
-![Home Screen](screenshots/home_screen.png)
-```
 
 ## Project Structure
 
@@ -42,8 +34,8 @@ flutter_login_app/
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd flutter_login_app
+   git clone <https://github.com/RajaAbdullah295/DevelopersHub-Corporation-Flutter-Development.git>
+   cd task1_flutter_login_app
    ```
 2. Get dependencies:
    ```bash

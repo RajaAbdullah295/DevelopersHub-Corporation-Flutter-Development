@@ -12,16 +12,7 @@ A complete task management app built as the Week 3 capstone project, combining U
 - **Persistent Storage** — the full task list is saved to `SharedPreferences` (as JSON) every time it changes, and reloaded automatically when the app restarts
 - **Empty State** — friendly message and icon shown when there are no tasks yet
 
-## Screenshots / Demo
 
-*(Add screenshots and a link to your demo video here, e.g.)*
-
-```
-![Task List](screenshots/task_list.png)
-![Add Task Dialog](screenshots/add_task.png)
-
-🎥 Demo video: <link to your video>
-```
 
 ## Project Structure
 
@@ -54,7 +45,7 @@ Run `flutter doctor` to confirm your setup is ready — resolve any ❌ items it
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/RajaAbdullah295/DevelopersHub-Corporation-Flutter-Development.git>
    cd week3_task_manager
    ```
 2. Install dependencies:

@@ -53,7 +53,7 @@ week2_app/
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/RajaAbdullah295/DevelopersHub-Corporation-Flutter-Development.git>
    cd week2_app
    ```
 2. Get dependencies:
